@@ -1,4 +1,4 @@
-name: Cheque
+name: PaperFunds
 version: 0.0.1
 main: Azzam\Cheque\Main
 api: 5.0.0
