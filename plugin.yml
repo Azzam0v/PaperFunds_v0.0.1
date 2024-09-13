@@ -1,0 +1,13 @@
+name: Cheque
+version: 0.0.1
+main: Azzam\Cheque\Main
+api: 5.0.0
+depend:
+  - EconomyPE
+commands:
+  cheque:
+    description: Vous permet de créer un chèque
+    permission: cheque
+permissions:
+  cheque :
+    default: true
