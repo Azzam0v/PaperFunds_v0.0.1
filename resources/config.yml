@@ -1,0 +1,14 @@
+# Insérez la valeur maximal qu'un chèque peut avoir
+Valeur_max: 100000
+
+# Insérez la valeur minimal qu'un chèque peut avoir
+Valeur_min: 1000
+
+# Insérez le délai d'attente entre chaque utilisation de chèque (préférable de ne pas changer pour éviter tout usebug de connexion et pour éviter la duplication)
+Delai: 30
+
+# Insérez le titre que vous voulez attribuer à l'interface et à votre item
+Titre: "Chèque"
+
+# Insérez l'ID de l'item qui sera utilisé comme chèque
+Item_ID: "paper"
